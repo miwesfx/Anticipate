@@ -7,12 +7,36 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		496409F01BF9006F00FE7C71 /* EjercicioDelDiaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 496409EF1BF9006F00FE7C71 /* EjercicioDelDiaViewController.swift */; };
 		49C8CE501BB2B23100B26B9F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49C8CE4F1BB2B23100B26B9F /* AppDelegate.swift */; };
 		49C8CE521BB2B23100B26B9F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49C8CE511BB2B23100B26B9F /* ViewController.swift */; };
 		49C8CE551BB2B23100B26B9F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49C8CE531BB2B23100B26B9F /* Main.storyboard */; };
 		49C8CE571BB2B23100B26B9F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 49C8CE561BB2B23100B26B9F /* Images.xcassets */; };
 		49C8CE5A1BB2B23100B26B9F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 49C8CE581BB2B23100B26B9F /* LaunchScreen.xib */; };
 		49C8CE661BB2B23100B26B9F /* AnticipateTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49C8CE651BB2B23100B26B9F /* AnticipateTests.swift */; };
+		49C8CE701BB2BD6F00B26B9F /* SeguridadPersonalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49C8CE6F1BB2BD6F00B26B9F /* SeguridadPersonalViewController.swift */; };
+		49C8CE721BB2C5C600B26B9F /* EscuelaDirectorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49C8CE711BB2C5C600B26B9F /* EscuelaDirectorViewController.swift */; };
+		49C8CE741BB31FB500B26B9F /* AsesoramientoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49C8CE731BB31FB500B26B9F /* AsesoramientoViewController.swift */; };
+		49CBAF361BB9AF05004EBABB /* InfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49CBAF351BB9AF05004EBABB /* InfoViewController.swift */; };
+		49CBAF381BB9C833004EBABB /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49CBAF371BB9C833004EBABB /* TestViewController.swift */; };
+		49CBAF3A1BBAA583004EBABB /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49CBAF391BBAA583004EBABB /* TableViewController.swift */; };
+		49CBAF3E1BBB0603004EBABB /* PosicionSeguridadViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49CBAF3D1BBB0603004EBABB /* PosicionSeguridadViewController.swift */; };
+		49CBAF401BBB0A3A004EBABB /* DesplazamientosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49CBAF3F1BBB0A3A004EBABB /* DesplazamientosViewController.swift */; };
+		49CBAF421BBC42EE004EBABB /* esquivasViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49CBAF411BBC42EE004EBABB /* esquivasViewController.swift */; };
+		49CBAF441BBC4519004EBABB /* desviosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49CBAF431BBC4519004EBABB /* desviosViewController.swift */; };
+		49CBAF461BBC4706004EBABB /* bloqueosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49CBAF451BBC4706004EBABB /* bloqueosViewController.swift */; };
+		49CBAF481BBC717D004EBABB /* munecaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49CBAF471BBC717D004EBABB /* munecaViewController.swift */; };
+		49CBAF4A1BBC730F004EBABB /* brazoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49CBAF491BBC730F004EBABB /* brazoViewController.swift */; };
+		49CBAF4C1BBC8192004EBABB /* cuellobajoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49CBAF4B1BBC8192004EBABB /* cuellobajoViewController.swift */; };
+		49CBAF4E1BBC843C004EBABB /* cuelloarribaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49CBAF4D1BBC843C004EBABB /* cuelloarribaViewController.swift */; };
+		49CBAF501BBC86C7004EBABB /* directoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49CBAF4F1BBC86C7004EBABB /* directoViewController.swift */; };
+		49CBAF521BBC87E4004EBABB /* circularViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49CBAF511BBC87E4004EBABB /* circularViewController.swift */; };
+		49CBAF541BBD1F70004EBABB /* ascendenteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49CBAF531BBD1F70004EBABB /* ascendenteViewController.swift */; };
+		49CBAF561BBD2367004EBABB /* descendenteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49CBAF551BBD2367004EBABB /* descendenteViewController.swift */; };
+		49CBAF581BBD253C004EBABB /* amenazablancaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49CBAF571BBD253C004EBABB /* amenazablancaViewController.swift */; };
+		49CBAF5A1BBD2717004EBABB /* ataqueblancaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49CBAF591BBD2717004EBABB /* ataqueblancaViewController.swift */; };
+		49CBAF5C1BBD2903004EBABB /* contundenteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49CBAF5B1BBD2903004EBABB /* contundenteViewController.swift */; };
+		49CBAF5E1BBD57BB004EBABB /* menuprincipalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49CBAF5D1BBD57BB004EBABB /* menuprincipalViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -26,6 +50,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		496409EF1BF9006F00FE7C71 /* EjercicioDelDiaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EjercicioDelDiaViewController.swift; sourceTree = "<group>"; };
 		49C8CE4A1BB2B23100B26B9F /* Anticipate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Anticipate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		49C8CE4E1BB2B23100B26B9F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		49C8CE4F1BB2B23100B26B9F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -36,6 +61,29 @@
 		49C8CE5F1BB2B23100B26B9F /* AnticipateTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AnticipateTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		49C8CE641BB2B23100B26B9F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		49C8CE651BB2B23100B26B9F /* AnticipateTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnticipateTests.swift; sourceTree = "<group>"; };
+		49C8CE6F1BB2BD6F00B26B9F /* SeguridadPersonalViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SeguridadPersonalViewController.swift; sourceTree = "<group>"; };
+		49C8CE711BB2C5C600B26B9F /* EscuelaDirectorViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EscuelaDirectorViewController.swift; sourceTree = "<group>"; };
+		49C8CE731BB31FB500B26B9F /* AsesoramientoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AsesoramientoViewController.swift; sourceTree = "<group>"; };
+		49CBAF351BB9AF05004EBABB /* InfoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InfoViewController.swift; sourceTree = "<group>"; };
+		49CBAF371BB9C833004EBABB /* TestViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
+		49CBAF391BBAA583004EBABB /* TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TableViewController.swift; path = ../TableViewController.swift; sourceTree = "<group>"; };
+		49CBAF3D1BBB0603004EBABB /* PosicionSeguridadViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PosicionSeguridadViewController.swift; sourceTree = "<group>"; };
+		49CBAF3F1BBB0A3A004EBABB /* DesplazamientosViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DesplazamientosViewController.swift; sourceTree = "<group>"; };
+		49CBAF411BBC42EE004EBABB /* esquivasViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = esquivasViewController.swift; sourceTree = "<group>"; };
+		49CBAF431BBC4519004EBABB /* desviosViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = desviosViewController.swift; sourceTree = "<group>"; };
+		49CBAF451BBC4706004EBABB /* bloqueosViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = bloqueosViewController.swift; sourceTree = "<group>"; };
+		49CBAF471BBC717D004EBABB /* munecaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = munecaViewController.swift; sourceTree = "<group>"; };
+		49CBAF491BBC730F004EBABB /* brazoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = brazoViewController.swift; sourceTree = "<group>"; };
+		49CBAF4B1BBC8192004EBABB /* cuellobajoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = cuellobajoViewController.swift; sourceTree = "<group>"; };
+		49CBAF4D1BBC843C004EBABB /* cuelloarribaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = cuelloarribaViewController.swift; sourceTree = "<group>"; };
+		49CBAF4F1BBC86C7004EBABB /* directoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = directoViewController.swift; sourceTree = "<group>"; };
+		49CBAF511BBC87E4004EBABB /* circularViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = circularViewController.swift; sourceTree = "<group>"; };
+		49CBAF531BBD1F70004EBABB /* ascendenteViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ascendenteViewController.swift; sourceTree = "<group>"; };
+		49CBAF551BBD2367004EBABB /* descendenteViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = descendenteViewController.swift; sourceTree = "<group>"; };
+		49CBAF571BBD253C004EBABB /* amenazablancaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = amenazablancaViewController.swift; sourceTree = "<group>"; };
+		49CBAF591BBD2717004EBABB /* ataqueblancaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ataqueblancaViewController.swift; sourceTree = "<group>"; };
+		49CBAF5B1BBD2903004EBABB /* contundenteViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = contundenteViewController.swift; sourceTree = "<group>"; };
+		49CBAF5D1BBD57BB004EBABB /* menuprincipalViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = menuprincipalViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +125,7 @@
 		49C8CE4C1BB2B23100B26B9F /* Anticipate */ = {
 			isa = PBXGroup;
 			children = (
+				49CBAF5D1BBD57BB004EBABB /* menuprincipalViewController.swift */,
 				49C8CE4F1BB2B23100B26B9F /* AppDelegate.swift */,
 				49C8CE511BB2B23100B26B9F /* ViewController.swift */,
 				49C8CE531BB2B23100B26B9F /* Main.storyboard */,
@@ -90,6 +139,29 @@
 		49C8CE4D1BB2B23100B26B9F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				496409EF1BF9006F00FE7C71 /* EjercicioDelDiaViewController.swift */,
+				49CBAF3D1BBB0603004EBABB /* PosicionSeguridadViewController.swift */,
+				49CBAF3F1BBB0A3A004EBABB /* DesplazamientosViewController.swift */,
+				49CBAF391BBAA583004EBABB /* TableViewController.swift */,
+				49CBAF411BBC42EE004EBABB /* esquivasViewController.swift */,
+				49CBAF431BBC4519004EBABB /* desviosViewController.swift */,
+				49CBAF451BBC4706004EBABB /* bloqueosViewController.swift */,
+				49CBAF471BBC717D004EBABB /* munecaViewController.swift */,
+				49CBAF491BBC730F004EBABB /* brazoViewController.swift */,
+				49CBAF4B1BBC8192004EBABB /* cuellobajoViewController.swift */,
+				49CBAF4D1BBC843C004EBABB /* cuelloarribaViewController.swift */,
+				49CBAF4F1BBC86C7004EBABB /* directoViewController.swift */,
+				49CBAF511BBC87E4004EBABB /* circularViewController.swift */,
+				49CBAF531BBD1F70004EBABB /* ascendenteViewController.swift */,
+				49CBAF551BBD2367004EBABB /* descendenteViewController.swift */,
+				49CBAF571BBD253C004EBABB /* amenazablancaViewController.swift */,
+				49CBAF591BBD2717004EBABB /* ataqueblancaViewController.swift */,
+				49CBAF5B1BBD2903004EBABB /* contundenteViewController.swift */,
+				49CBAF371BB9C833004EBABB /* TestViewController.swift */,
+				49CBAF351BB9AF05004EBABB /* InfoViewController.swift */,
+				49C8CE731BB31FB500B26B9F /* AsesoramientoViewController.swift */,
+				49C8CE711BB2C5C600B26B9F /* EscuelaDirectorViewController.swift */,
+				49C8CE6F1BB2BD6F00B26B9F /* SeguridadPersonalViewController.swift */,
 				49C8CE4E1BB2B23100B26B9F /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -156,11 +228,14 @@
 		49C8CE421BB2B23100B26B9F /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0640;
+				LastSwiftMigration = 0720;
+				LastSwiftUpdateCheck = 0720;
+				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = "Miguel Pérez Prado";
 				TargetAttributes = {
 					49C8CE491BB2B23100B26B9F = {
 						CreatedOnToolsVersion = 6.4;
+						DevelopmentTeam = ZVBK3QA2NH;
 					};
 					49C8CE5E1BB2B23100B26B9F = {
 						CreatedOnToolsVersion = 6.4;
@@ -212,8 +287,32 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				49CBAF401BBB0A3A004EBABB /* DesplazamientosViewController.swift in Sources */,
+				49CBAF4E1BBC843C004EBABB /* cuelloarribaViewController.swift in Sources */,
+				49CBAF461BBC4706004EBABB /* bloqueosViewController.swift in Sources */,
+				49CBAF381BB9C833004EBABB /* TestViewController.swift in Sources */,
 				49C8CE521BB2B23100B26B9F /* ViewController.swift in Sources */,
+				49C8CE741BB31FB500B26B9F /* AsesoramientoViewController.swift in Sources */,
+				49CBAF541BBD1F70004EBABB /* ascendenteViewController.swift in Sources */,
+				49CBAF481BBC717D004EBABB /* munecaViewController.swift in Sources */,
+				49CBAF5E1BBD57BB004EBABB /* menuprincipalViewController.swift in Sources */,
+				49CBAF5C1BBD2903004EBABB /* contundenteViewController.swift in Sources */,
+				49CBAF5A1BBD2717004EBABB /* ataqueblancaViewController.swift in Sources */,
+				49CBAF561BBD2367004EBABB /* descendenteViewController.swift in Sources */,
+				49CBAF421BBC42EE004EBABB /* esquivasViewController.swift in Sources */,
+				49CBAF3A1BBAA583004EBABB /* TableViewController.swift in Sources */,
+				49CBAF4C1BBC8192004EBABB /* cuellobajoViewController.swift in Sources */,
+				49CBAF441BBC4519004EBABB /* desviosViewController.swift in Sources */,
+				49C8CE701BB2BD6F00B26B9F /* SeguridadPersonalViewController.swift in Sources */,
+				49CBAF4A1BBC730F004EBABB /* brazoViewController.swift in Sources */,
 				49C8CE501BB2B23100B26B9F /* AppDelegate.swift in Sources */,
+				49CBAF521BBC87E4004EBABB /* circularViewController.swift in Sources */,
+				49CBAF361BB9AF05004EBABB /* InfoViewController.swift in Sources */,
+				49CBAF501BBC86C7004EBABB /* directoViewController.swift in Sources */,
+				49CBAF3E1BBB0603004EBABB /* PosicionSeguridadViewController.swift in Sources */,
+				49C8CE721BB2C5C600B26B9F /* EscuelaDirectorViewController.swift in Sources */,
+				49CBAF581BBD253C004EBABB /* amenazablancaViewController.swift in Sources */,
+				496409F01BF9006F00FE7C71 /* EjercicioDelDiaViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -276,6 +375,7 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -342,9 +442,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = Anticipate/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "es.escuelaprevencionviolencia.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -352,9 +457,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = Anticipate/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "es.escuelaprevencionviolencia.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -362,16 +472,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(SDKROOT)/Developer/Library/Frameworks",
-					"$(inherited)",
-				);
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
 				INFOPLIST_FILE = AnticipateTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.miguelperezprado.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Anticipate.app/Anticipate";
 			};
@@ -381,12 +488,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(SDKROOT)/Developer/Library/Frameworks",
-					"$(inherited)",
-				);
 				INFOPLIST_FILE = AnticipateTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.miguelperezprado.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Anticipate.app/Anticipate";
 			};
@@ -411,6 +515,7 @@
 				49C8CE6B1BB2B23100B26B9F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		49C8CE6C1BB2B23100B26B9F /* Build configuration list for PBXNativeTarget "AnticipateTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +524,7 @@
 				49C8CE6E1BB2B23100B26B9F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
