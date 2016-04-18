@@ -37,6 +37,7 @@
 		49CBAF5A1BBD2717004EBABB /* ataqueblancaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49CBAF591BBD2717004EBABB /* ataqueblancaViewController.swift */; };
 		49CBAF5C1BBD2903004EBABB /* contundenteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49CBAF5B1BBD2903004EBABB /* contundenteViewController.swift */; };
 		49CBAF5E1BBD57BB004EBABB /* menuprincipalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49CBAF5D1BBD57BB004EBABB /* menuprincipalViewController.swift */; };
+		B964F7141CC5167800038722 /* ControlRiesgoVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B964F7131CC5167800038722 /* ControlRiesgoVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -84,6 +85,7 @@
 		49CBAF591BBD2717004EBABB /* ataqueblancaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ataqueblancaViewController.swift; sourceTree = "<group>"; };
 		49CBAF5B1BBD2903004EBABB /* contundenteViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = contundenteViewController.swift; sourceTree = "<group>"; };
 		49CBAF5D1BBD57BB004EBABB /* menuprincipalViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = menuprincipalViewController.swift; sourceTree = "<group>"; };
+		B964F7131CC5167800038722 /* ControlRiesgoVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ControlRiesgoVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -139,6 +141,7 @@
 		49C8CE4D1BB2B23100B26B9F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				B964F7131CC5167800038722 /* ControlRiesgoVC.swift */,
 				496409EF1BF9006F00FE7C71 /* EjercicioDelDiaViewController.swift */,
 				49CBAF3D1BBB0603004EBABB /* PosicionSeguridadViewController.swift */,
 				49CBAF3F1BBB0A3A004EBABB /* DesplazamientosViewController.swift */,
@@ -307,6 +310,7 @@
 				49CBAF4A1BBC730F004EBABB /* brazoViewController.swift in Sources */,
 				49C8CE501BB2B23100B26B9F /* AppDelegate.swift in Sources */,
 				49CBAF521BBC87E4004EBABB /* circularViewController.swift in Sources */,
+				B964F7141CC5167800038722 /* ControlRiesgoVC.swift in Sources */,
 				49CBAF361BB9AF05004EBABB /* InfoViewController.swift in Sources */,
 				49CBAF501BBC86C7004EBABB /* directoViewController.swift in Sources */,
 				49CBAF3E1BBB0603004EBABB /* PosicionSeguridadViewController.swift in Sources */,

@@ -390,7 +390,7 @@ Medidas de Seguridad Personal, son las medidas que adoptamos basándonos en la p
         <!--Control de riesgo-->
         <scene sceneID="H3b-8e-0He">
             <objects>
-                <tableViewController id="dHh-Jx-nvb" customClass="TableViewController" customModule="Anticipate" customModuleProvider="target" sceneMemberID="viewController">
+                <tableViewController id="dHh-Jx-nvb" customClass="ControlRiesgoVC" customModule="Anticipate" customModuleProvider="target" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="static" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" id="ZsT-Uh-mIQ">
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -2827,6 +2827,6 @@ Atención especializada</string>
         <image name="verde" width="177" height="67"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="rVP-Ik-gcd"/>
+        <segue reference="0mV-cS-nuF"/>
     </inferredMetricsTieBreakers>
 </document>
